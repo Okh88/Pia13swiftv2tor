@@ -21,7 +21,7 @@ struct ContentView: View {
         .padding()
     }
     func nyfunktion(){
-        //Den är nu bra
+        //Den är nu brättre
 }
 }
 
