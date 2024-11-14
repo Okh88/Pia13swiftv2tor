@@ -8,6 +8,7 @@
 import SwiftUI
 // APP PUPLICERAD
 //Fixa buggfix i publicerad version
+
 struct ContentView: View {
     var body: some View {
         VStack {
@@ -15,6 +16,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, world!")
+            Text("Hej,varden!")
         }
         .padding()
     }
