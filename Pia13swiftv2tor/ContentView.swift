@@ -7,6 +7,7 @@
 
 import SwiftUI
 // APP PUPLICERAD
+//Fixa buggfix i publicerad version
 struct ContentView: View {
     var body: some View {
         VStack {
