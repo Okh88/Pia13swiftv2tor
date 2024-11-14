@@ -8,7 +8,6 @@
 import SwiftUI
 // APP PUPLICERAD
 //Fixa buggfix i publicerad version
-
 struct ContentView: View {
     var body: some View {
         VStack {
@@ -17,11 +16,12 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Hello, world!")
             Text("Hej")
+            Text("Mera text")
         }
         .padding()
     }
     func nyfunktion(){
-        //Den är nu ännu bättre
+        //Den är nu bra
 }
 }
 
