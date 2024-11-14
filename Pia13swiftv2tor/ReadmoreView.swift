@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  ReadmoreView.swift
 //  Pia13swiftv2tor
 //
 //  Created by Malmö Yrkehögskolan on 2024-11-14.
